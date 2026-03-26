@@ -1,0 +1,241 @@
+{"level":30,"time":"2026-02-22T09:39:53.879Z","pid":26604,"hostname":"Nikokone","msg":"Listening on 127.0.0.1:60578"}
+{"level":30,"time":"2026-02-22T09:39:54.268Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:39:54.734Z","pid":26604,"hostname":"Nikokone","msg":"Adding browser to stack: chromium, version: 145.0.7632.6"}
+{"level":30,"time":"2026-02-22T09:39:54.734Z","pid":26604,"hostname":"Nikokone","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2026-02-22T09:39:54.734Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:39:54.737Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newContext"}
+{"level":30,"time":"2026-02-22T09:39:54.737Z","pid":26604,"hostname":"Nikokone","msg":"Creating new context with options: {\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}}"}
+{"level":30,"time":"2026-02-22T09:39:54.737Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@483a5e7875253ead6317c6383a0fe4ff\"},\"headless\":true,\"_contextStack\":[],\"id\":\"browser=ec17cb0c-d46d-4ba5-b86a-b349695c4b8e\"}"}
+{"level":30,"time":"2026-02-22T09:39:54.737Z","pid":26604,"hostname":"Nikokone","msg":"Trace file: "}
+{"level":30,"time":"2026-02-22T09:39:54.750Z","pid":26604,"hostname":"Nikokone","msg":"Setting default timeout for context context=78d6d99f-51a5-4a0e-9ca5-c665e64f0199 to 10000"}
+{"level":30,"time":"2026-02-22T09:39:54.750Z","pid":26604,"hostname":"Nikokone","msg":"Changed active context: context=78d6d99f-51a5-4a0e-9ca5-c665e64f0199"}
+{"level":30,"time":"2026-02-22T09:39:54.750Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newContext"}
+{"level":30,"time":"2026-02-22T09:39:54.752Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-02-22T09:39:54.753Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@483a5e7875253ead6317c6383a0fe4ff\"},\"headless\":true,\"_contextStack\":[{\"id\":\"context=78d6d99f-51a5-4a0e-9ca5-c665e64f0199\",\"c\":{\"_type\":\"BrowserContext\",\"_guid\":\"browser-context@4fd86d65ef02bc89d7be14b8ca365096\"},\"pageStack\":[],\"options\":{\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}},\"traceFile\":\"\"}],\"id\":\"browser=ec17cb0c-d46d-4ba5-b86a-b349695c4b8e\"}"}
+{"level":30,"time":"2026-02-22T09:39:54.918Z","pid":26604,"hostname":"Nikokone","msg":"Video path: undefined"}
+{"level":30,"time":"2026-02-22T09:39:54.918Z","pid":26604,"hostname":"Nikokone","msg":"Changed active page"}
+{"level":30,"time":"2026-02-22T09:39:58.457Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newPage"}
+{"level":30,"time":"2026-02-22T09:39:58.460Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:58.460Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=[data-test=\"Flat_White\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:58.709Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:58.711Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:58.711Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=button.pay in page."}
+{"level":30,"time":"2026-02-22T09:39:58.748Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:58.750Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-02-22T09:39:58.750Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2026-02-22T09:39:58.763Z","pid":26604,"hostname":"Nikokone","msg":"End of node method fillText"}
+{"level":30,"time":"2026-02-22T09:39:58.764Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-02-22T09:39:58.765Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2026-02-22T09:39:58.771Z","pid":26604,"hostname":"Nikokone","msg":"End of node method fillText"}
+{"level":30,"time":"2026-02-22T09:39:58.773Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:58.773Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with role=button[name=\"Submit\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:58.808Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:58.810Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-02-22T09:39:58.811Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with text=Thanks for your purchase in page."}
+{"level":30,"time":"2026-02-22T09:39:58.901Z","pid":26604,"hostname":"Nikokone","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-02-22T09:39:58.904Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2026-02-22T09:39:58.906Z","pid":26604,"hostname":"Nikokone","msg":"Removed page=ffdc296f-bdb5-4ffb-9782-7ace69a1628e from context=78d6d99f-51a5-4a0e-9ca5-c665e64f0199 page stack"}
+{"level":30,"time":"2026-02-22T09:39:58.971Z","pid":26604,"hostname":"Nikokone","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+=============================================================
+{"level":30,"time":"2026-02-22T09:39:58.974Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:58.974Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:58.975Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:58.975Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:58.977Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:39:59.025Z","pid":26604,"hostname":"Nikokone","msg":"Adding browser to stack: chromium, version: 145.0.7632.6"}
+{"level":30,"time":"2026-02-22T09:39:59.025Z","pid":26604,"hostname":"Nikokone","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2026-02-22T09:39:59.025Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:39:59.027Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newContext"}
+{"level":30,"time":"2026-02-22T09:39:59.027Z","pid":26604,"hostname":"Nikokone","msg":"Creating new context with options: {\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}}"}
+{"level":30,"time":"2026-02-22T09:39:59.027Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@63fae2ca9ade809184b0ecd37d9f63bc\"},\"headless\":true,\"_contextStack\":[],\"id\":\"browser=3406fbb7-b5bd-47af-8ecc-7f59072a9b5d\"}"}
+{"level":30,"time":"2026-02-22T09:39:59.027Z","pid":26604,"hostname":"Nikokone","msg":"Trace file: "}
+{"level":30,"time":"2026-02-22T09:39:59.029Z","pid":26604,"hostname":"Nikokone","msg":"Setting default timeout for context context=abbcc99b-f0b9-4425-b694-13cdbe1f6645 to 10000"}
+{"level":30,"time":"2026-02-22T09:39:59.030Z","pid":26604,"hostname":"Nikokone","msg":"Changed active context: context=abbcc99b-f0b9-4425-b694-13cdbe1f6645"}
+{"level":30,"time":"2026-02-22T09:39:59.030Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newContext"}
+{"level":30,"time":"2026-02-22T09:39:59.031Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-02-22T09:39:59.031Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@63fae2ca9ade809184b0ecd37d9f63bc\"},\"headless\":true,\"_contextStack\":[{\"id\":\"context=abbcc99b-f0b9-4425-b694-13cdbe1f6645\",\"c\":{\"_type\":\"BrowserContext\",\"_guid\":\"browser-context@8bee8345613cc9ca542e0fd09fea2346\"},\"pageStack\":[],\"options\":{\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}},\"traceFile\":\"\"}],\"id\":\"browser=3406fbb7-b5bd-47af-8ecc-7f59072a9b5d\"}"}
+{"level":30,"time":"2026-02-22T09:39:59.065Z","pid":26604,"hostname":"Nikokone","msg":"Video path: undefined"}
+{"level":30,"time":"2026-02-22T09:39:59.065Z","pid":26604,"hostname":"Nikokone","msg":"Changed active page"}
+{"level":30,"time":"2026-02-22T09:39:59.256Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newPage"}
+{"level":30,"time":"2026-02-22T09:39:59.258Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.258Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=[data-test=\"Cafe_Latte\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.325Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.327Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.327Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with role=link[name=\"Cart page\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.364Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.366Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.366Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with role=button[name=\"Add one Cafe Latte\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.406Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.408Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.408Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"Cafe Latte\") >> nth=1 in page."}
+{"level":30,"time":"2026-02-22T09:39:59.411Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.412Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.412Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"Cafe Latte\") >> nth=1 >> css=.unit-desc:has-text(\"$\") in page."}
+{"level":30,"time":"2026-02-22T09:39:59.414Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.415Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getText"}
+{"level":30,"time":"2026-02-22T09:39:59.416Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"Cafe Latte\") >> nth=1 >> css=.unit-desc:has-text(\"$\") in page."}
+{"level":30,"time":"2026-02-22T09:39:59.431Z","pid":26604,"hostname":"Nikokone","msg":"Retrieved text for element css=li.list-item:has-text(\"Cafe Latte\") >> nth=1 >> css=.unit-desc:has-text(\"$\") containing $16.00 x 2"}
+{"level":30,"time":"2026-02-22T09:39:59.431Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getText"}
+{"level":30,"time":"2026-02-22T09:39:59.434Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2026-02-22T09:39:59.435Z","pid":26604,"hostname":"Nikokone","msg":"Removed page=6b3bc831-81e1-4b62-aed8-7e9fbcbb0a34 from context=abbcc99b-f0b9-4425-b694-13cdbe1f6645 page stack"}
+{"level":30,"time":"2026-02-22T09:39:59.462Z","pid":26604,"hostname":"Nikokone","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+=============================================================
+{"level":30,"time":"2026-02-22T09:39:59.464Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:59.464Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:59.465Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:59.465Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:59.467Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:39:59.515Z","pid":26604,"hostname":"Nikokone","msg":"Adding browser to stack: chromium, version: 145.0.7632.6"}
+{"level":30,"time":"2026-02-22T09:39:59.515Z","pid":26604,"hostname":"Nikokone","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2026-02-22T09:39:59.515Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:39:59.517Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newContext"}
+{"level":30,"time":"2026-02-22T09:39:59.517Z","pid":26604,"hostname":"Nikokone","msg":"Creating new context with options: {\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}}"}
+{"level":30,"time":"2026-02-22T09:39:59.517Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@5808c3d306dfd88008232253c813fd0b\"},\"headless\":true,\"_contextStack\":[],\"id\":\"browser=c6971988-7bbb-49d9-92f9-2003231d845e\"}"}
+{"level":30,"time":"2026-02-22T09:39:59.517Z","pid":26604,"hostname":"Nikokone","msg":"Trace file: "}
+{"level":30,"time":"2026-02-22T09:39:59.519Z","pid":26604,"hostname":"Nikokone","msg":"Setting default timeout for context context=08e93b0a-c4ff-42a8-98f0-ed771777f1e2 to 10000"}
+{"level":30,"time":"2026-02-22T09:39:59.519Z","pid":26604,"hostname":"Nikokone","msg":"Changed active context: context=08e93b0a-c4ff-42a8-98f0-ed771777f1e2"}
+{"level":30,"time":"2026-02-22T09:39:59.519Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newContext"}
+{"level":30,"time":"2026-02-22T09:39:59.521Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-02-22T09:39:59.521Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@5808c3d306dfd88008232253c813fd0b\"},\"headless\":true,\"_contextStack\":[{\"id\":\"context=08e93b0a-c4ff-42a8-98f0-ed771777f1e2\",\"c\":{\"_type\":\"BrowserContext\",\"_guid\":\"browser-context@39d49e36e519a00d329bc854fb978cd6\"},\"pageStack\":[],\"options\":{\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}},\"traceFile\":\"\"}],\"id\":\"browser=c6971988-7bbb-49d9-92f9-2003231d845e\"}"}
+{"level":30,"time":"2026-02-22T09:39:59.556Z","pid":26604,"hostname":"Nikokone","msg":"Video path: undefined"}
+{"level":30,"time":"2026-02-22T09:39:59.556Z","pid":26604,"hostname":"Nikokone","msg":"Changed active page"}
+{"level":30,"time":"2026-02-22T09:39:59.743Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newPage"}
+{"level":30,"time":"2026-02-22T09:39:59.745Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.746Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=[data-test=\"Cappuccino\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.810Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.812Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.812Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=[data-test=\"Cappuccino\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.839Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.842Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.842Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=[data-test=\"Cappuccino\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.875Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.877Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.877Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with role=button[name=\"Yes, of course!\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.907Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.909Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.909Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with role=link[name=\"Cart page\"] in page."}
+{"level":30,"time":"2026-02-22T09:39:59.944Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:39:59.947Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.947Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"(Discounted) Mocha\")>>nth=1 in page."}
+{"level":30,"time":"2026-02-22T09:39:59.949Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.950Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.950Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"(Discounted) Mocha\")>>nth=1>>css=.unit-desc:has-text(\"$\") in page."}
+{"level":30,"time":"2026-02-22T09:39:59.953Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getElement"}
+{"level":30,"time":"2026-02-22T09:39:59.954Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getText"}
+{"level":30,"time":"2026-02-22T09:39:59.954Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"(Discounted) Mocha\")>>nth=1>>css=.unit-desc:has-text(\"$\") in page."}
+{"level":30,"time":"2026-02-22T09:39:59.967Z","pid":26604,"hostname":"Nikokone","msg":"Retrieved text for element css=li.list-item:has-text(\"(Discounted) Mocha\")>>nth=1>>css=.unit-desc:has-text(\"$\") containing $4.00 x 1"}
+{"level":30,"time":"2026-02-22T09:39:59.967Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getText"}
+{"level":30,"time":"2026-02-22T09:39:59.970Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2026-02-22T09:39:59.971Z","pid":26604,"hostname":"Nikokone","msg":"Removed page=3f6c34f6-da6c-4a94-ab40-b991962e790d from context=08e93b0a-c4ff-42a8-98f0-ed771777f1e2 page stack"}
+{"level":30,"time":"2026-02-22T09:39:59.997Z","pid":26604,"hostname":"Nikokone","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+=============================================================
+{"level":30,"time":"2026-02-22T09:39:59.999Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:39:59.999Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:40:00.000Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:40:00.000Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:40:00.002Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:40:00.050Z","pid":26604,"hostname":"Nikokone","msg":"Adding browser to stack: chromium, version: 145.0.7632.6"}
+{"level":30,"time":"2026-02-22T09:40:00.050Z","pid":26604,"hostname":"Nikokone","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2026-02-22T09:40:00.050Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newBrowser"}
+{"level":30,"time":"2026-02-22T09:40:00.052Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newContext"}
+{"level":30,"time":"2026-02-22T09:40:00.052Z","pid":26604,"hostname":"Nikokone","msg":"Creating new context with options: {\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}}"}
+{"level":30,"time":"2026-02-22T09:40:00.052Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@9b7ccae81fb2f5a4c844046d24e6791f\"},\"headless\":true,\"_contextStack\":[],\"id\":\"browser=8c75a14a-a7fb-4f1b-b843-43b1c09d231c\"}"}
+{"level":30,"time":"2026-02-22T09:40:00.052Z","pid":26604,"hostname":"Nikokone","msg":"Trace file: "}
+{"level":30,"time":"2026-02-22T09:40:00.054Z","pid":26604,"hostname":"Nikokone","msg":"Setting default timeout for context context=45274991-1975-4a70-8eef-561be1fca99a to 10000"}
+{"level":30,"time":"2026-02-22T09:40:00.054Z","pid":26604,"hostname":"Nikokone","msg":"Changed active context: context=45274991-1975-4a70-8eef-561be1fca99a"}
+{"level":30,"time":"2026-02-22T09:40:00.054Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newContext"}
+{"level":30,"time":"2026-02-22T09:40:00.056Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-02-22T09:40:00.056Z","pid":26604,"hostname":"Nikokone","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@9b7ccae81fb2f5a4c844046d24e6791f\"},\"headless\":true,\"_contextStack\":[{\"id\":\"context=45274991-1975-4a70-8eef-561be1fca99a\",\"c\":{\"_type\":\"BrowserContext\",\"_guid\":\"browser-context@b1b2a68545fcb9b65b9f25e3d496c7fb\"},\"pageStack\":[],\"options\":{\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":{\"width\":1280,\"height\":720}},\"traceFile\":\"\"}],\"id\":\"browser=8c75a14a-a7fb-4f1b-b843-43b1c09d231c\"}"}
+{"level":30,"time":"2026-02-22T09:40:00.091Z","pid":26604,"hostname":"Nikokone","msg":"Video path: undefined"}
+{"level":30,"time":"2026-02-22T09:40:00.091Z","pid":26604,"hostname":"Nikokone","msg":"Changed active page"}
+{"level":30,"time":"2026-02-22T09:40:00.285Z","pid":26604,"hostname":"Nikokone","msg":"End of node method newPage"}
+{"level":30,"time":"2026-02-22T09:40:00.288Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:40:00.288Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=[data-test=\"Espresso\"] in page."}
+{"level":30,"time":"2026-02-22T09:40:00.358Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:40:00.360Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method click"}
+{"level":30,"time":"2026-02-22T09:40:00.360Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with role=link[name=\"Cart page\"] in page."}
+{"level":30,"time":"2026-02-22T09:40:00.394Z","pid":26604,"hostname":"Nikokone","msg":"End of node method click"}
+{"level":30,"time":"2026-02-22T09:40:00.396Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getElement"}
+{"level":30,"time":"2026-02-22T09:40:00.396Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"Espresso\") >> nth=1 in page."}
+{"level":30,"time":"2026-02-22T09:40:00.398Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getElement"}
+{"level":30,"time":"2026-02-22T09:40:00.399Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getElement"}
+{"level":30,"time":"2026-02-22T09:40:00.399Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"Espresso\") >> nth=1 >> css=.unit-desc:has-text(\"$\") in page."}
+{"level":30,"time":"2026-02-22T09:40:00.401Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getElement"}
+{"level":30,"time":"2026-02-22T09:40:00.402Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getText"}
+{"level":30,"time":"2026-02-22T09:40:00.402Z","pid":26604,"hostname":"Nikokone","msg":"Strict mode is enabled, find Locator with css=li.list-item:has-text(\"Espresso\") >> nth=1 >> css=.unit-desc:has-text(\"$\") in page."}
+{"level":30,"time":"2026-02-22T09:40:00.417Z","pid":26604,"hostname":"Nikokone","msg":"Retrieved text for element css=li.list-item:has-text(\"Espresso\") >> nth=1 >> css=.unit-desc:has-text(\"$\") containing $10.00 x 1"}
+{"level":30,"time":"2026-02-22T09:40:00.417Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getText"}
+{"level":30,"time":"2026-02-22T09:40:00.421Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2026-02-22T09:40:00.421Z","pid":26604,"hostname":"Nikokone","Take screenshot with options: ":{"path":"F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2026-02-22T09:40:00.455Z","pid":26604,"hostname":"Nikokone","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2026-02-22T09:40:00.457Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2026-02-22T09:40:00.458Z","pid":26604,"hostname":"Nikokone","msg":"Removed page=ddcffbb5-71ec-47c9-852c-a724dbdd5438 from context=45274991-1975-4a70-8eef-561be1fca99a page stack"}
+{"level":30,"time":"2026-02-22T09:40:00.492Z","pid":26604,"hostname":"Nikokone","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+=============================================================
+{"level":30,"time":"2026-02-22T09:40:00.494Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:40:00.495Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+=============================================================
+{"level":30,"time":"2026-02-22T09:40:00.496Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:40:00.496Z","pid":26604,"hostname":"Nikokone","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-02-22T09:40:00.903Z","pid":26604,"hostname":"Nikokone","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2026-02-22T09:40:00.903Z","pid":26604,"hostname":"Nikokone","msg":"End of node method closeAllBrowsers"}

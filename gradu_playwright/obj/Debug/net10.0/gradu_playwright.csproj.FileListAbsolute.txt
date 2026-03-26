@@ -1,0 +1,1002 @@
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.csproj.AssemblyReference.cache
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.AssemblyInfoInputs.cache
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.AssemblyInfo.cs
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.csproj.CoreCompileInputs.cache
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\testhost.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\testhost.exe
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\node\win32_x64\node.exe
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\node\LICENSE
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\api.json
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\install_media_pack.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\install_webkit_wsl.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\browsers.json
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\cli.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\index.d.ts
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\index.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\index.mjs
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\androidServerImpl.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\browserServerImpl.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\android.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\api.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\artifact.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\browser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\browserContext.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\browserType.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\cdpSession.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\channelOwner.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clientHelper.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clientInstrumentation.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clientStackTrace.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clock.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\connection.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\consoleMessage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\coverage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\dialog.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\download.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\electron.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\elementHandle.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\errors.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\eventEmitter.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\events.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\fetch.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\fileChooser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\fileUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\frame.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\harRouter.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\input.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\jsHandle.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\jsonPipe.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\localUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\locator.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\network.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\page.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\platform.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\playwright.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\selectors.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\stream.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\timeoutSettings.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\tracing.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\types.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\video.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\waiter.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\webError.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\webSocket.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\worker.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\writableStream.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\cli\driver.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\cli\program.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\cli\programWithTestStub.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\bindingsControllerSource.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\clockSource.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\injectedScriptSource.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\pollingRecorderSource.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\storageScriptSource.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\utilityScriptSource.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\webSocketMockSource.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\inprocess.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\inProcessFactory.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\outofprocess.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\protocol\serializers.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\protocol\validator.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\protocol\validatorPrimitives.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\remote\playwrightConnection.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\remote\playwrightServer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\android\android.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\android\backendAdb.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\artifact.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiBrowser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiChromium.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiConnection.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiExecutionContext.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiFirefox.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiInput.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiNetworkManager.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiOverCdp.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiPage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiPdf.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiCommands.d.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiDeserializer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiKeyboard.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiProtocol.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiProtocolCore.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiProtocolPermissions.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiSerializer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\firefoxPrefs.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\browser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\browserContext.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\browserType.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\callLog.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\appIcon.png
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\chromium.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\chromiumSwitches.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crBrowser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crConnection.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crCoverage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crDevTools.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crDragDrop.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crInput.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crPage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crPdf.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crServiceWorker.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\protocol.d.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\videoRecorder.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\clock.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\csharp.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\java.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\javascript.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\jsonl.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\language.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\languages.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\python.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\types.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\console.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\cookieStore.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\debugController.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\debugger.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\deviceDescriptors.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dialog.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\debugControllerDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\webSocketRouteDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dom.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\download.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\electron\electron.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\electron\loader.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\errors.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\fetch.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\fileChooser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\fileUploadUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffBrowser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffConnection.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffInput.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffPage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\firefox.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\protocol.d.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\formData.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\frames.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\frameSelectors.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\harBackend.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\har\harRecorder.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\har\harTracer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\helper.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\index.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\input.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\instrumentation.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\javascript.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\launchApp.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\localUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\macEditingCommands.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\network.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\page.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\pipeTransport.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\playwright.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\progress.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\protocolError.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\chat.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderApp.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderRunner.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderSignalProcessor.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\throttledFile.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\browserFetcher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\dependencies.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\index.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\nativeDeps.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\oopDownloadBrowserMain.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\screenshotter.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\selectors.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\socksClientCertificatesInterceptor.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\socksInterceptor.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\recorder\tracing.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\transport.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\types.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\usKeyboardLayout.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\ascii.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\comparators.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\crypto.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\debug.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\debugLogger.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\env.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\eventsHelper.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\expectUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\fileUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\happyEyeballs.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\hostPlatform.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\httpServer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\imageUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\colorUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\compare.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\imageChannel.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\stats.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\linuxUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\network.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\nodePlatform.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\pipeTransport.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\processLauncher.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\profiler.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\socksProxy.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\spawnAsync.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\task.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\userAgent.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\wsServer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\zipFile.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\zones.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\protocol.d.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\webkit.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkBrowser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkConnection.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkInput.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkPage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkWorkers.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\third_party\pixelmatch.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utilsBundle.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utilsBundleImpl\index.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utilsBundleImpl\xdg-open
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\ariaSnapshot.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\assert.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\colors.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\cssParser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\cssTokenizer.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\headers.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\locatorGenerators.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\locatorParser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\locatorUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\manualPromise.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\mimeType.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\multimap.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\protocolFormatter.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\protocolMetainfo.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\rtti.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\selectorParser.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\semaphore.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\stackTrace.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\time.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\timeoutRunner.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\traceUtils.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\types.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\urlMatch.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\utilityScriptSerializers.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\htmlReport\index.html
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-BoWUGj0J.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-C3UTv-Ge.css
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\codicon-DCmgc-ay.ttf
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\index-DJqDAOZp.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\index-Ri0uHF7I.css
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\index.html
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\playwright-logo.svg
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\assets\codeMirrorModule-Bucv2d7q.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\assets\defaultSettingsView-BEpdCv1S.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\assets\xtermModule-CsJ4vdCR.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\codeMirrorModule.C3UTv-Ge.css
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\codicon.DCmgc-ay.ttf
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\defaultSettingsView.ConWv5KN.css
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\index.C4Y3Aw8n.css
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\index.D69TkbyG.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\index.html
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\manifest.webmanifest
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\playwright-logo.svg
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\snapshot.html
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\sw.bundle.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\uiMode.Btcz36p_.css
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\uiMode.BWTwXl41.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\uiMode.html
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\xtermModule.DYP7pi_n.css
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\zipBundle.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\zipBundleImpl.js
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\LICENSE
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\NOTICE
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\package.json
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\protocol.yml
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\README.md
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\ThirdPartyNotices.txt
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\types\protocol.d.ts
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\types\structs.d.ts
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\types\types.d.ts
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\playwright.ps1
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\NUnit3.TestAdapter.pdb
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.engine.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.engine.api.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.engine.core.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\testcentric.engine.metadata.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\NUnit3.TestAdapter.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.deps.json
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.runtimeconfig.json
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.pdb
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.ApplicationInsights.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Playwright.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Playwright.NUnit.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Playwright.TestAdapter.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Platform.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.MSBuild.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.framework.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.framework.legacy.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_pl.2D8D69D7.Up2Date
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\refint\gradu_playwright.dll
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.pdb
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.genruntimeconfig.cache
+C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\Debug\net10.0\ref\gradu_playwright.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\testhost.exe
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\testhost.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\node\win32_x64\node.exe
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\node\LICENSE
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\api.json
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\install_media_pack.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\install_webkit_wsl.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\browsers.json
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\cli.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\index.d.ts
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\index.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\index.mjs
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\androidServerImpl.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\browserServerImpl.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\android.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\api.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\artifact.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\browser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\browserContext.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\browserType.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\cdpSession.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\channelOwner.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clientHelper.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clientInstrumentation.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clientStackTrace.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\clock.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\connection.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\consoleMessage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\coverage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\dialog.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\download.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\electron.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\elementHandle.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\errors.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\eventEmitter.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\events.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\fetch.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\fileChooser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\fileUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\frame.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\harRouter.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\input.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\jsHandle.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\jsonPipe.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\localUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\locator.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\network.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\page.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\platform.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\playwright.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\selectors.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\stream.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\timeoutSettings.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\tracing.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\types.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\video.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\waiter.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\webError.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\webSocket.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\worker.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\client\writableStream.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\cli\driver.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\cli\program.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\cli\programWithTestStub.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\bindingsControllerSource.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\clockSource.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\injectedScriptSource.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\pollingRecorderSource.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\storageScriptSource.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\utilityScriptSource.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\generated\webSocketMockSource.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\inprocess.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\inProcessFactory.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\outofprocess.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\protocol\serializers.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\protocol\validator.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\protocol\validatorPrimitives.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\remote\playwrightConnection.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\remote\playwrightServer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\android\android.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\android\backendAdb.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\artifact.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiBrowser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiChromium.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiConnection.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiExecutionContext.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiFirefox.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiInput.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiNetworkManager.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiOverCdp.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiPage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\bidiPdf.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiCommands.d.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiDeserializer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiKeyboard.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiProtocol.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiProtocolCore.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiProtocolPermissions.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\bidiSerializer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\bidi\third_party\firefoxPrefs.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\browser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\browserContext.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\browserType.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\callLog.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\appIcon.png
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\chromium.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\chromiumSwitches.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crBrowser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crConnection.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crCoverage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crDevTools.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crDragDrop.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crInput.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crPage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crPdf.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\crServiceWorker.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\protocol.d.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\chromium\videoRecorder.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\clock.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\csharp.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\java.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\javascript.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\jsonl.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\language.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\languages.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\python.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\codegen\types.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\console.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\cookieStore.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\debugController.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\debugger.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\deviceDescriptors.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dialog.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\debugControllerDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\webSocketRouteDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\dom.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\download.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\electron\electron.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\electron\loader.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\errors.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\fetch.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\fileChooser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\fileUploadUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffBrowser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffConnection.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffInput.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\ffPage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\firefox.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\firefox\protocol.d.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\formData.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\frames.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\frameSelectors.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\harBackend.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\har\harRecorder.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\har\harTracer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\helper.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\index.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\input.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\instrumentation.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\javascript.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\launchApp.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\localUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\macEditingCommands.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\network.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\page.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\pipeTransport.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\playwright.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\progress.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\protocolError.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\chat.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderApp.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderRunner.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderSignalProcessor.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\recorderUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\recorder\throttledFile.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\browserFetcher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\dependencies.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\index.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\nativeDeps.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\registry\oopDownloadBrowserMain.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\screenshotter.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\selectors.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\socksClientCertificatesInterceptor.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\socksInterceptor.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\recorder\tracing.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\transport.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\types.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\usKeyboardLayout.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\ascii.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\comparators.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\crypto.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\debug.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\debugLogger.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\env.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\eventsHelper.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\expectUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\fileUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\happyEyeballs.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\hostPlatform.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\httpServer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\imageUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\colorUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\compare.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\imageChannel.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\image_tools\stats.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\linuxUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\network.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\nodePlatform.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\pipeTransport.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\processLauncher.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\profiler.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\socksProxy.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\spawnAsync.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\task.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\userAgent.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\wsServer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\zipFile.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\utils\zones.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\protocol.d.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\webkit.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkBrowser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkConnection.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkInput.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkPage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\server\webkit\wkWorkers.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\third_party\pixelmatch.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utilsBundle.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utilsBundleImpl\index.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utilsBundleImpl\xdg-open
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\ariaSnapshot.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\assert.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\colors.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\cssParser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\cssTokenizer.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\headers.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\locatorGenerators.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\locatorParser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\locatorUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\manualPromise.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\mimeType.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\multimap.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\protocolFormatter.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\protocolMetainfo.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\rtti.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\selectorParser.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\semaphore.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\stackTrace.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\time.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\timeoutRunner.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\traceUtils.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\types.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\urlMatch.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\utils\isomorphic\utilityScriptSerializers.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\htmlReport\index.html
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-BoWUGj0J.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\codeMirrorModule-C3UTv-Ge.css
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\codicon-DCmgc-ay.ttf
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\index-DJqDAOZp.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\assets\index-Ri0uHF7I.css
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\index.html
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\recorder\playwright-logo.svg
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\assets\codeMirrorModule-Bucv2d7q.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\assets\defaultSettingsView-BEpdCv1S.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\assets\xtermModule-CsJ4vdCR.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\codeMirrorModule.C3UTv-Ge.css
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\codicon.DCmgc-ay.ttf
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\defaultSettingsView.ConWv5KN.css
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\index.C4Y3Aw8n.css
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\index.D69TkbyG.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\index.html
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\manifest.webmanifest
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\playwright-logo.svg
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\snapshot.html
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\sw.bundle.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\uiMode.Btcz36p_.css
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\uiMode.BWTwXl41.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\uiMode.html
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\vite\traceViewer\xtermModule.DYP7pi_n.css
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\zipBundle.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\lib\zipBundleImpl.js
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\LICENSE
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\NOTICE
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\package.json
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\protocol.yml
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\README.md
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\ThirdPartyNotices.txt
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\types\protocol.d.ts
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\types\structs.d.ts
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\.playwright\package\types\types.d.ts
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\playwright.ps1
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\NUnit3.TestAdapter.pdb
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.engine.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.engine.api.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.engine.core.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\testcentric.engine.metadata.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\NUnit3.TestAdapter.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.deps.json
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.runtimeconfig.json
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\gradu_playwright.pdb
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.ApplicationInsights.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Playwright.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Playwright.NUnit.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Playwright.TestAdapter.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.Telemetry.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Platform.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.Testing.Extensions.MSBuild.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.TestPlatform.Utilities.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\Newtonsoft.Json.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.framework.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\nunit.framework.legacy.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.csproj.AssemblyReference.cache
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.AssemblyInfoInputs.cache
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.AssemblyInfo.cs
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.csproj.CoreCompileInputs.cache
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_pl.2D8D69D7.Up2Date
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\refint\gradu_playwright.dll
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.pdb
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\gradu_playwright.genruntimeconfig.cache
+F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_playwright\obj\Debug\net10.0\ref\gradu_playwright.dll

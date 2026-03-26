@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.3 on win32)" generated="2026-02-22T11:39:52.477369" rpa="false" schemaversion="5">
+<suite id="s1" name="Tests" source="F:\Dump\Dump 2025\Niko's pictures\gradu\gradu_tyot\gradu_robot_browser\Tests.robot">
+<test id="s1-t1" name="Buy a flat white" line="13">
+<kw name="Setup Browser" owner="Setup" type="SETUP">
+<kw name="New Browser" owner="Browser">
+<msg time="2026-02-22T11:39:52.882205" level="INFO">{"browser": "chromium", "headless": true, "chromiumSandbox": false, "devtools": false, "handleSIGHUP": true, "handleSIGINT": true, "handleSIGTERM": true, "slowMo": 0.0, "timeout": 30000.0, "tracesDir": "F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\5f3c1694-6dba-4fb7-a706-b1cc12bc5d04"}</msg>
+<msg time="2026-02-22T11:39:53.223050" level="INFO">Starting Browser process C:\Users\thepa\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js using at 127.0.0.1:60578</msg>
+<msg time="2026-02-22T11:39:54.735516" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":true,"chromiumSandbox":false,"devtools":false,"handleSIGHUP":true,"handleSIGINT":true,"handleSIGTERM":true,"slowMo":0,"timeout":30000,"tracesDir":"F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\5f3c1694-6dba-4fb7-a706-b1cc12bc5d04"}</msg>
+<arg>${BROWSER}</arg>
+<arg>headless=${HEADLESS}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new playwright Browser with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:39:52.881813" elapsed="1.853854"/>
+</kw>
+<kw name="New Context" owner="Browser">
+<msg time="2026-02-22T11:39:54.736649" level="INFO">{
+  "acceptDownloads": true,
+  "bypassCSP": false,
+  "forcedColors": "none",
+  "ignoreHTTPSErrors": false,
+  "javaScriptEnabled": true,
+  "offline": false,
+  "reducedMotion": "no-preference",
+  "serviceWorkers": "allow",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  }
+}</msg>
+<msg time="2026-02-22T11:39:54.751485" level="INFO">Successfully created context. </msg>
+<msg time="2026-02-22T11:39:54.751557" level="INFO">{'acceptDownloads': True, 'bypassCSP': False, 'forcedColors': 'none', 'ignoreHTTPSErrors': False, 'javaScriptEnabled': True, 'offline': False, 'reducedMotion': 'no-preference', 'serviceWorkers': 'allow', 'viewport': {'width': 1280, 'height': 720}}</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new BrowserContext with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:39:54.735854" elapsed="0.015763"/>
+</kw>
+<kw name="New Page" owner="Browser">
+<msg time="2026-02-22T11:39:58.458462" level="INFO">Successfully initialized new page object and opened url: https://coffee-cart.app/</msg>
+<arg>${URL}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Open a new Page.</doc>
+<status status="PASS" start="2026-02-22T11:39:54.751763" elapsed="3.706860"/>
+</kw>
+<doc>Opens the browser and navigates to the specified URL.</doc>
+<status status="PASS" start="2026-02-22T11:39:52.881179" elapsed="5.577535"/>
+</kw>
+<kw name="Click Coffee Item" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:58.459539" level="INFO">Clicks the element 'css=[data-test="Flat_White"]'.</msg>
+<arg>css=[data-test="${name}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.459248" elapsed="0.250989"/>
+</kw>
+<arg>Flat_White</arg>
+<status status="PASS" start="2026-02-22T11:39:58.458998" elapsed="0.251388"/>
+</kw>
+<kw name="Click checkout button" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:58.711217" level="INFO">Clicks the element 'css=button.pay'.</msg>
+<arg>css=button.pay</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.710881" elapsed="0.038012"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:58.710646" elapsed="0.038356"/>
+</kw>
+<kw name="Fill in checkout form" owner="CommonFunctions">
+<kw name="Fill Text" owner="Browser">
+<msg time="2026-02-22T11:39:58.749781" level="INFO">Fills the text 'Niko Leppanen' in the given field.</msg>
+<arg>id=name</arg>
+<arg>${name}</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Clears and fills the given ``txt`` into the text field found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.749509" elapsed="0.014337"/>
+</kw>
+<kw name="Fill Text" owner="Browser">
+<msg time="2026-02-22T11:39:58.764374" level="INFO">Fills the text 'thesis@gradu.fi' in the given field.</msg>
+<arg>id=email</arg>
+<arg>${email}</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Clears and fills the given ``txt`` into the text field found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.764007" elapsed="0.007847"/>
+</kw>
+<arg>Niko Leppanen</arg>
+<arg>thesis@gradu.fi</arg>
+<status status="PASS" start="2026-02-22T11:39:58.749246" elapsed="0.022716"/>
+</kw>
+<kw name="Submit checkout form" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:58.772718" level="INFO">Clicks the element 'role=button[name="Submit"]'.</msg>
+<arg>role=button[name="Submit"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.772447" elapsed="0.036916"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:58.772202" elapsed="0.037269"/>
+</kw>
+<kw name="Check that purchase is successful" owner="CommonFunctions">
+<kw name="Wait For Elements State" owner="Browser">
+<msg time="2026-02-22T11:39:58.901779" level="INFO">Waited for Element with selector text=Thanks for your purchase at state visible</msg>
+<arg>text=Thanks for your purchase</arg>
+<arg>visible</arg>
+<arg>timeout=5s</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.809939" elapsed="0.091977"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:58.809708" elapsed="0.092291"/>
+</kw>
+<kw name="Teardown Browser" owner="Setup" type="TEARDOWN">
+<kw name="Run Keyword If Test Failed" owner="BuiltIn">
+<arg>Take Screenshot</arg>
+<doc>Runs the given keyword with the given arguments, if the test failed.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.902851" elapsed="0.000345"/>
+</kw>
+<kw name="Close Browser" owner="Browser">
+<msg time="2026-02-22T11:39:58.972144" level="INFO">Closed browser</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.903324" elapsed="0.068961"/>
+</kw>
+<doc>Closes the browser after tests are done.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.902461" elapsed="0.069904"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:52.880712" elapsed="6.091772"/>
+</test>
+<test id="s1-t2" name="Add Cafe Latte to cart and then add one more from cart" line="20">
+<kw name="Setup Browser" owner="Setup" type="SETUP">
+<kw name="New Browser" owner="Browser">
+<msg time="2026-02-22T11:39:58.976779" level="INFO">{"browser": "chromium", "headless": true, "chromiumSandbox": false, "devtools": false, "handleSIGHUP": true, "handleSIGINT": true, "handleSIGTERM": true, "slowMo": 0.0, "timeout": 30000.0, "tracesDir": "F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\72fbf063-ee67-4d6b-8df9-f9c62fbb26e7"}</msg>
+<msg time="2026-02-22T11:39:59.025997" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":true,"chromiumSandbox":false,"devtools":false,"handleSIGHUP":true,"handleSIGINT":true,"handleSIGTERM":true,"slowMo":0,"timeout":30000,"tracesDir":"F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\72fbf063-ee67-4d6b-8df9-f9c62fbb26e7"}</msg>
+<arg>${BROWSER}</arg>
+<arg>headless=${HEADLESS}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new playwright Browser with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.976387" elapsed="0.049790"/>
+</kw>
+<kw name="New Context" owner="Browser">
+<msg time="2026-02-22T11:39:59.027055" level="INFO">{
+  "acceptDownloads": true,
+  "bypassCSP": false,
+  "forcedColors": "none",
+  "ignoreHTTPSErrors": false,
+  "javaScriptEnabled": true,
+  "offline": false,
+  "reducedMotion": "no-preference",
+  "serviceWorkers": "allow",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  }
+}</msg>
+<msg time="2026-02-22T11:39:59.030522" level="INFO">Successfully created context. </msg>
+<msg time="2026-02-22T11:39:59.030577" level="INFO">{'acceptDownloads': True, 'bypassCSP': False, 'forcedColors': 'none', 'ignoreHTTPSErrors': False, 'javaScriptEnabled': True, 'offline': False, 'reducedMotion': 'no-preference', 'serviceWorkers': 'allow', 'viewport': {'width': 1280, 'height': 720}}</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new BrowserContext with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.026333" elapsed="0.004291"/>
+</kw>
+<kw name="New Page" owner="Browser">
+<msg time="2026-02-22T11:39:59.257213" level="INFO">Successfully initialized new page object and opened url: https://coffee-cart.app/</msg>
+<arg>${URL}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Open a new Page.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.030742" elapsed="0.226637"/>
+</kw>
+<doc>Opens the browser and navigates to the specified URL.</doc>
+<status status="PASS" start="2026-02-22T11:39:58.976192" elapsed="0.281269"/>
+</kw>
+<kw name="Click Coffee Item" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.258266" level="INFO">Clicks the element 'css=[data-test="Cafe_Latte"]'.</msg>
+<arg>css=[data-test="${name}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.257972" elapsed="0.068543"/>
+</kw>
+<arg>Cafe_Latte</arg>
+<status status="PASS" start="2026-02-22T11:39:59.257727" elapsed="0.068894"/>
+</kw>
+<kw name="Go to cart page" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.327357" level="INFO">Clicks the element 'role=link[name="Cart page"]'.</msg>
+<arg>role=link[name="Cart page"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.327095" elapsed="0.038078"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:59.326864" elapsed="0.038421"/>
+</kw>
+<kw name="Add one more coffee from cart" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.366183" level="INFO">Clicks the element 'role=button[name="Add one Cafe Latte"]'.</msg>
+<arg>role=button[name="Add one ${name}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.365887" elapsed="0.041419"/>
+</kw>
+<arg>Cafe Latte</arg>
+<status status="PASS" start="2026-02-22T11:39:59.365620" elapsed="0.041796"/>
+</kw>
+<kw name="Check amount of coffee in cart" owner="CommonFunctions">
+<kw name="Get Element" owner="Browser">
+<msg time="2026-02-22T11:39:59.411718" level="INFO">Locator found successfully.</msg>
+<msg time="2026-02-22T11:39:59.411829" level="INFO">${row} = css=li.list-item:has-text("Cafe Latte") &gt;&gt; nth=1</msg>
+<var>${row}</var>
+<arg>css=li.list-item:has-text("${coffeeName}") &gt;&gt; nth=1</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to a Playwright [https://playwright.dev/docs/api/class-locator|Locator].</doc>
+<status status="PASS" start="2026-02-22T11:39:59.407928" elapsed="0.003916"/>
+</kw>
+<kw name="Get Element" owner="Browser">
+<msg time="2026-02-22T11:39:59.415070" level="INFO">Locator found successfully.</msg>
+<msg time="2026-02-22T11:39:59.415178" level="INFO">${desc} = css=li.list-item:has-text("Cafe Latte") &gt;&gt; nth=1 &gt;&gt; css=.unit-desc:has-text("$")</msg>
+<var>${desc}</var>
+<arg>${row} &gt;&gt; css=.unit-desc:has-text("$")</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to a Playwright [https://playwright.dev/docs/api/class-locator|Locator].</doc>
+<status status="PASS" start="2026-02-22T11:39:59.411933" elapsed="0.003261"/>
+</kw>
+<kw name="Get Text" owner="Browser">
+<msg time="2026-02-22T11:39:59.431672" level="INFO">Text: '$16.00 x 2'</msg>
+<msg time="2026-02-22T11:39:59.431797" level="INFO">${text} = $16.00 x 2</msg>
+<var>${text}</var>
+<arg>${desc}</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.415286" elapsed="0.016525"/>
+</kw>
+<kw name="Get Regexp Matches" owner="String">
+<msg time="2026-02-22T11:39:59.432325" level="INFO">${count} = ['2']</msg>
+<var>${count}</var>
+<arg>${text}</arg>
+<arg>x\\s*(\\d+)</arg>
+<arg>1</arg>
+<doc>Returns a list of all non-overlapping matches in the given string.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.431944" elapsed="0.000396"/>
+</kw>
+<kw name="Should Be Equal As Integers" owner="BuiltIn">
+<arg>${count[0]}</arg>
+<arg>${amount}</arg>
+<doc>Fails if objects are unequal after converting them to integers.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.432399" elapsed="0.000419"/>
+</kw>
+<arg>Cafe Latte</arg>
+<arg>2</arg>
+<status status="PASS" start="2026-02-22T11:39:59.407673" elapsed="0.025188"/>
+</kw>
+<kw name="Teardown Browser" owner="Setup" type="TEARDOWN">
+<kw name="Run Keyword If Test Failed" owner="BuiltIn">
+<arg>Take Screenshot</arg>
+<doc>Runs the given keyword with the given arguments, if the test failed.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.433300" elapsed="0.000140"/>
+</kw>
+<kw name="Close Browser" owner="Browser">
+<msg time="2026-02-22T11:39:59.463016" level="INFO">Closed browser</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.433506" elapsed="0.029640"/>
+</kw>
+<doc>Closes the browser after tests are done.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.433117" elapsed="0.030107"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:58.975398" elapsed="0.487967"/>
+</test>
+<test id="s1-t3" name="Add three cappucinos, apply discount, check the discount is correct" line="26">
+<kw name="Setup Browser" owner="Setup" type="SETUP">
+<kw name="New Browser" owner="Browser">
+<msg time="2026-02-22T11:39:59.466714" level="INFO">{"browser": "chromium", "headless": true, "chromiumSandbox": false, "devtools": false, "handleSIGHUP": true, "handleSIGINT": true, "handleSIGTERM": true, "slowMo": 0.0, "timeout": 30000.0, "tracesDir": "F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\2d2c1061-3bc3-4116-9b17-1ab966f22726"}</msg>
+<msg time="2026-02-22T11:39:59.516043" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":true,"chromiumSandbox":false,"devtools":false,"handleSIGHUP":true,"handleSIGINT":true,"handleSIGTERM":true,"slowMo":0,"timeout":30000,"tracesDir":"F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\2d2c1061-3bc3-4116-9b17-1ab966f22726"}</msg>
+<arg>${BROWSER}</arg>
+<arg>headless=${HEADLESS}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new playwright Browser with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.466310" elapsed="0.049887"/>
+</kw>
+<kw name="New Context" owner="Browser">
+<msg time="2026-02-22T11:39:59.517213" level="INFO">{
+  "acceptDownloads": true,
+  "bypassCSP": false,
+  "forcedColors": "none",
+  "ignoreHTTPSErrors": false,
+  "javaScriptEnabled": true,
+  "offline": false,
+  "reducedMotion": "no-preference",
+  "serviceWorkers": "allow",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  }
+}</msg>
+<msg time="2026-02-22T11:39:59.520306" level="INFO">Successfully created context. </msg>
+<msg time="2026-02-22T11:39:59.520355" level="INFO">{'acceptDownloads': True, 'bypassCSP': False, 'forcedColors': 'none', 'ignoreHTTPSErrors': False, 'javaScriptEnabled': True, 'offline': False, 'reducedMotion': 'no-preference', 'serviceWorkers': 'allow', 'viewport': {'width': 1280, 'height': 720}}</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new BrowserContext with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.516369" elapsed="0.004025"/>
+</kw>
+<kw name="New Page" owner="Browser">
+<msg time="2026-02-22T11:39:59.744325" level="INFO">Successfully initialized new page object and opened url: https://coffee-cart.app/</msg>
+<arg>${URL}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Open a new Page.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.520512" elapsed="0.223975"/>
+</kw>
+<doc>Opens the browser and navigates to the specified URL.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.466120" elapsed="0.278452"/>
+</kw>
+<kw name="Click Coffee Item" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.745392" level="INFO">Clicks the element 'css=[data-test="Cappuccino"]'.</msg>
+<arg>css=[data-test="${name}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.745096" elapsed="0.065894"/>
+</kw>
+<arg>Cappuccino</arg>
+<status status="PASS" start="2026-02-22T11:39:59.744841" elapsed="0.066256"/>
+</kw>
+<kw name="Click Coffee Item" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.811913" level="INFO">Clicks the element 'css=[data-test="Cappuccino"]'.</msg>
+<arg>css=[data-test="${name}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.811625" elapsed="0.029032"/>
+</kw>
+<arg>Cappuccino</arg>
+<status status="PASS" start="2026-02-22T11:39:59.811357" elapsed="0.029428"/>
+</kw>
+<kw name="Click Coffee Item" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.841536" level="INFO">Clicks the element 'css=[data-test="Cappuccino"]'.</msg>
+<arg>css=[data-test="${name}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.841261" elapsed="0.034870"/>
+</kw>
+<arg>Cappuccino</arg>
+<status status="PASS" start="2026-02-22T11:39:59.841033" elapsed="0.035200"/>
+</kw>
+<kw name="Accept Promotion Coffee" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.876998" level="INFO">Clicks the element 'role=button[name="Yes, of course!"]'.</msg>
+<arg>role=button[name="Yes, of course!"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.876715" elapsed="0.030980"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:59.876476" elapsed="0.031320"/>
+</kw>
+<kw name="Go to cart page" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:39:59.908513" level="INFO">Clicks the element 'role=link[name="Cart page"]'.</msg>
+<arg>role=link[name="Cart page"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.908257" elapsed="0.037015"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:59.908026" elapsed="0.037348"/>
+</kw>
+<kw name="Check that discounted price is correct" owner="CommonFunctions">
+<kw name="Get Element" owner="Browser">
+<msg time="2026-02-22T11:39:59.949798" level="INFO">Locator found successfully.</msg>
+<msg time="2026-02-22T11:39:59.949918" level="INFO">${row} = css=li.list-item:has-text("(Discounted) Mocha")&gt;&gt;nth=1</msg>
+<var>${row}</var>
+<arg>css=li.list-item:has-text("${coffeeName}")&gt;&gt;nth=1</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to a Playwright [https://playwright.dev/docs/api/class-locator|Locator].</doc>
+<status status="PASS" start="2026-02-22T11:39:59.946251" elapsed="0.003682"/>
+</kw>
+<kw name="Get Element" owner="Browser">
+<msg time="2026-02-22T11:39:59.953790" level="INFO">Locator found successfully.</msg>
+<msg time="2026-02-22T11:39:59.953908" level="INFO">${desc} = css=li.list-item:has-text("(Discounted) Mocha")&gt;&gt;nth=1&gt;&gt;css=.unit-desc:has-text("$")</msg>
+<var>${desc}</var>
+<arg>${row}&gt;&gt;css=.unit-desc:has-text("$")</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to a Playwright [https://playwright.dev/docs/api/class-locator|Locator].</doc>
+<status status="PASS" start="2026-02-22T11:39:59.950041" elapsed="0.003883"/>
+</kw>
+<kw name="Get Text" owner="Browser">
+<msg time="2026-02-22T11:39:59.968018" level="INFO">Text: '$4.00 x 1'</msg>
+<msg time="2026-02-22T11:39:59.968141" level="INFO">${text} = $4.00 x 1</msg>
+<var>${text}</var>
+<arg>${desc}</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.954040" elapsed="0.014119"/>
+</kw>
+<kw name="Get Regexp Matches" owner="String">
+<msg time="2026-02-22T11:39:59.968591" level="INFO">${price} = ['4.00']</msg>
+<var>${price}</var>
+<arg>${text}</arg>
+<arg>\\$(\\d+\\.\\d{2})</arg>
+<arg>1</arg>
+<doc>Returns a list of all non-overlapping matches in the given string.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.968292" elapsed="0.000315"/>
+</kw>
+<kw name="Should Be Equal As Numbers" owner="BuiltIn">
+<arg>${price[0]}</arg>
+<arg>${discountedPrice}</arg>
+<doc>Fails if objects are unequal after converting them to real numbers.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.968674" elapsed="0.000429"/>
+</kw>
+<arg>(Discounted) Mocha</arg>
+<arg>4.00</arg>
+<status status="PASS" start="2026-02-22T11:39:59.945803" elapsed="0.023346"/>
+</kw>
+<kw name="Teardown Browser" owner="Setup" type="TEARDOWN">
+<kw name="Run Keyword If Test Failed" owner="BuiltIn">
+<arg>Take Screenshot</arg>
+<doc>Runs the given keyword with the given arguments, if the test failed.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.969573" elapsed="0.000137"/>
+</kw>
+<kw name="Close Browser" owner="Browser">
+<msg time="2026-02-22T11:39:59.998006" level="INFO">Closed browser</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.969775" elapsed="0.028355"/>
+</kw>
+<doc>Closes the browser after tests are done.</doc>
+<status status="PASS" start="2026-02-22T11:39:59.969389" elapsed="0.028816"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:39:59.465322" elapsed="0.533014"/>
+</test>
+<test id="s1-t4" name="Broken test case example" line="34">
+<kw name="Setup Browser" owner="Setup" type="SETUP">
+<kw name="New Browser" owner="Browser">
+<msg time="2026-02-22T11:40:00.001958" level="INFO">{"browser": "chromium", "headless": true, "chromiumSandbox": false, "devtools": false, "handleSIGHUP": true, "handleSIGINT": true, "handleSIGTERM": true, "slowMo": 0.0, "timeout": 30000.0, "tracesDir": "F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\ce60fd3a-c1da-4e2e-93ab-4cc27a9802cb"}</msg>
+<msg time="2026-02-22T11:40:00.051298" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":true,"chromiumSandbox":false,"devtools":false,"handleSIGHUP":true,"handleSIGINT":true,"handleSIGTERM":true,"slowMo":0,"timeout":30000,"tracesDir":"F:\\Dump\\Dump 2025\\Niko's pictures\\gradu\\gradu_tyot\\gradu_robot_browser\\browser\\traces\\temp\\ce60fd3a-c1da-4e2e-93ab-4cc27a9802cb"}</msg>
+<arg>${BROWSER}</arg>
+<arg>headless=${HEADLESS}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new playwright Browser with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.001542" elapsed="0.049884"/>
+</kw>
+<kw name="New Context" owner="Browser">
+<msg time="2026-02-22T11:40:00.052256" level="INFO">{
+  "acceptDownloads": true,
+  "bypassCSP": false,
+  "forcedColors": "none",
+  "ignoreHTTPSErrors": false,
+  "javaScriptEnabled": true,
+  "offline": false,
+  "reducedMotion": "no-preference",
+  "serviceWorkers": "allow",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  }
+}</msg>
+<msg time="2026-02-22T11:40:00.055286" level="INFO">Successfully created context. </msg>
+<msg time="2026-02-22T11:40:00.055325" level="INFO">{'acceptDownloads': True, 'bypassCSP': False, 'forcedColors': 'none', 'ignoreHTTPSErrors': False, 'javaScriptEnabled': True, 'offline': False, 'reducedMotion': 'no-preference', 'serviceWorkers': 'allow', 'viewport': {'width': 1280, 'height': 720}}</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new BrowserContext with specified options.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.051589" elapsed="0.003768"/>
+</kw>
+<kw name="New Page" owner="Browser">
+<msg time="2026-02-22T11:40:00.286434" level="INFO">Successfully initialized new page object and opened url: https://coffee-cart.app/</msg>
+<arg>${URL}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Open a new Page.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.055440" elapsed="0.231141"/>
+</kw>
+<doc>Opens the browser and navigates to the specified URL.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.001334" elapsed="0.285325"/>
+</kw>
+<kw name="Click Coffee Item" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:40:00.287497" level="INFO">Clicks the element 'css=[data-test="Espresso"]'.</msg>
+<arg>css=[data-test="${name}"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.287220" elapsed="0.071429"/>
+</kw>
+<arg>Espresso</arg>
+<status status="PASS" start="2026-02-22T11:40:00.286939" elapsed="0.071869"/>
+</kw>
+<kw name="Go to cart page" owner="CommonFunctions">
+<kw name="Click" owner="Browser">
+<msg time="2026-02-22T11:40:00.359580" level="INFO">Clicks the element 'role=link[name="Cart page"]'.</msg>
+<arg>role=link[name="Cart page"]</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.359294" elapsed="0.035777"/>
+</kw>
+<status status="PASS" start="2026-02-22T11:40:00.359050" elapsed="0.036125"/>
+</kw>
+<kw name="Check amount of coffee in cart" owner="CommonFunctions">
+<kw name="Get Element" owner="Browser">
+<msg time="2026-02-22T11:40:00.398614" level="INFO">Locator found successfully.</msg>
+<msg time="2026-02-22T11:40:00.398714" level="INFO">${row} = css=li.list-item:has-text("Espresso") &gt;&gt; nth=1</msg>
+<var>${row}</var>
+<arg>css=li.list-item:has-text("${coffeeName}") &gt;&gt; nth=1</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to a Playwright [https://playwright.dev/docs/api/class-locator|Locator].</doc>
+<status status="PASS" start="2026-02-22T11:40:00.395672" elapsed="0.003056"/>
+</kw>
+<kw name="Get Element" owner="Browser">
+<msg time="2026-02-22T11:40:00.401611" level="INFO">Locator found successfully.</msg>
+<msg time="2026-02-22T11:40:00.401716" level="INFO">${desc} = css=li.list-item:has-text("Espresso") &gt;&gt; nth=1 &gt;&gt; css=.unit-desc:has-text("$")</msg>
+<var>${desc}</var>
+<arg>${row} &gt;&gt; css=.unit-desc:has-text("$")</arg>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns a reference to a Playwright [https://playwright.dev/docs/api/class-locator|Locator].</doc>
+<status status="PASS" start="2026-02-22T11:40:00.398821" elapsed="0.002910"/>
+</kw>
+<kw name="Get Text" owner="Browser">
+<msg time="2026-02-22T11:40:00.418300" level="INFO">Text: '$10.00 x 1'</msg>
+<msg time="2026-02-22T11:40:00.418423" level="INFO">${text} = $10.00 x 1</msg>
+<var>${text}</var>
+<arg>${desc}</arg>
+<tag>Assertion</tag>
+<tag>Getter</tag>
+<tag>PageContent</tag>
+<doc>Returns text attribute of the element found by ``selector``.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.401824" elapsed="0.016613"/>
+</kw>
+<kw name="Get Regexp Matches" owner="String">
+<msg time="2026-02-22T11:40:00.418828" level="INFO">${count} = ['1']</msg>
+<var>${count}</var>
+<arg>${text}</arg>
+<arg>x\\s*(\\d+)</arg>
+<arg>1</arg>
+<doc>Returns a list of all non-overlapping matches in the given string.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.418585" elapsed="0.000258"/>
+</kw>
+<kw name="Should Be Equal As Integers" owner="BuiltIn">
+<msg time="2026-02-22T11:40:00.419400" level="FAIL">1 != 2</msg>
+<arg>${count[0]}</arg>
+<arg>${amount}</arg>
+<doc>Fails if objects are unequal after converting them to integers.</doc>
+<status status="FAIL" start="2026-02-22T11:40:00.418910" elapsed="0.000602">1 != 2</status>
+</kw>
+<arg>Espresso</arg>
+<arg>2</arg>
+<status status="FAIL" start="2026-02-22T11:40:00.395419" elapsed="0.024174">1 != 2</status>
+</kw>
+<kw name="Teardown Browser" owner="Setup" type="TEARDOWN">
+<kw name="Run Keyword If Test Failed" owner="BuiltIn">
+<kw name="Take Screenshot" owner="Browser">
+<msg time="2026-02-22T11:40:00.456121" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/robotframework-browser-screenshot-1.png" target="_blank"&gt;&lt;img src="browser/screenshot/robotframework-browser-screenshot-1.png" width="800px"/&gt;&lt;/a&gt;</msg>
+<tag>PageContent</tag>
+<doc>Takes a screenshot of the current window or element and saves it to disk.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.420253" elapsed="0.035978"/>
+</kw>
+<arg>Take Screenshot</arg>
+<doc>Runs the given keyword with the given arguments, if the test failed.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.420065" elapsed="0.036228"/>
+</kw>
+<kw name="Close Browser" owner="Browser">
+<msg time="2026-02-22T11:40:00.492968" level="INFO">Closed browser</msg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.456395" elapsed="0.036697"/>
+</kw>
+<doc>Closes the browser after tests are done.</doc>
+<status status="PASS" start="2026-02-22T11:40:00.419875" elapsed="0.073303"/>
+</kw>
+<status status="FAIL" start="2026-02-22T11:40:00.000411" elapsed="0.492910">1 != 2</status>
+</test>
+<doc>Actual test cases. CommonFunctions.robot and Setup.robot are imported here to be used in the test cases.</doc>
+<status status="FAIL" start="2026-02-22T11:39:52.478277" elapsed="8.017493"/>
+</suite>
+<statistics>
+<total>
+<stat pass="3" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Tests" id="s1" pass="3" fail="1" skip="0">Tests</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,176 @@
+PS C:\Users\niko.leppanen> dotnet new mstest -n gradu_playwright
+dotnet : The term 'dotnet' is not recognized as the name of a cmdlet, function, script file, or operable program. 
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ dotnet new mstest -n gradu_playwright
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (dotnet:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS C:\Users\niko.leppanen> 
+ *  History restored 
+
+PS C:\Users\niko.leppanen> dotnet new mstest -n gradu_playwright
+
+Welcome to .NET 10.0!
+---------------------
+SDK Version: 10.0.102
+
+Telemetry
+---------
+The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+
+Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
+
+----------------
+Installed an ASP.NET Core HTTPS development certificate.
+To trust the certificate, run 'dotnet dev-certs https --trust'
+Learn about HTTPS: https://aka.ms/dotnet-https
+
+----------------
+Write your first app: https://aka.ms/dotnet-hello-world
+Find out what's new: https://aka.ms/dotnet-whats-new
+Explore documentation: https://aka.ms/dotnet-docs
+Report issues and find source on GitHub: https://github.com/dotnet/core
+Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli
+--------------------------------------------------------------------------------------
+The template "MSTest Test Project" was created successfully.
+
+Processing post-creation actions...
+Restoring C:\Users\niko.leppanen\gradu_playwright\gradu_playwright.csproj:
+Restore succeeded.
+
+
+PS C:\Users\niko.leppanen> ls
+
+
+    Directory: C:\Users\niko.leppanen
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         1/30/2026   2:46 PM                .dotnet
+d-----         1/30/2026   2:46 PM                .nuget
+d-----         1/30/2026   2:46 PM                .templateengine
+d-----         1/30/2026   1:43 PM                .vscode
+d-r---         3/24/2025   8:29 AM                Contacts
+d-r---          7/7/2025   9:12 AM                Desktop
+d-r---        12/30/2025   3:55 PM                Documents
+dar---         1/30/2026   2:32 PM                Downloads
+d-r---         3/24/2025   8:29 AM                Favorites
+d-----         1/30/2026   2:46 PM                gradu_playwright
+d-r---         3/24/2025   8:29 AM                Links
+d-r---         3/24/2025   8:29 AM                Music
+d-r---         3/24/2025   9:02 AM                OneDrive
+dar--l         1/30/2026   1:18 PM                OneDrive - Openpos
+d-r---          5/5/2025  11:48 AM                Pictures
+d-----          4/9/2025  10:43 AM                Postman
+d-r---         3/24/2025   8:29 AM                Saved Games
+d-r---         3/28/2025   8:17 AM                Searches
+d-r---          4/1/2025   7:00 AM                Videos
+
+
+PS C:\Users\niko.leppanen> mkdir gradu_tyot
+
+
+    Directory: C:\Users\niko.leppanen
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         1/30/2026   2:47 PM                gradu_tyot
+
+
+PS C:\Users\niko.leppanen> cd .\gradu_tyot\       
+PS C:\Users\niko.leppanen\gradu_tyot> dotnet new mstest -n gradu_playwright
+The template "MSTest Test Project" was created successfully.
+
+Processing post-creation actions...
+Restoring C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\gradu_playwright.csproj:
+Restore succeeded.
+
+
+PS C:\Users\niko.leppanen\gradu_tyot> cd .\gradu_playwright\
+PS C:\Users\niko.leppanen\gradu_tyot\gradu_playwright> dotnet add package Microsoft.Playwright.MSTest
+info : X.509 certificate chain validation will use the default trust store selected by .NET for code signing.
+info : X.509 certificate chain validation will use the default trust store selected by .NET for timestamping.
+info : Adding PackageReference for package 'Microsoft.Playwright.MSTest' into project 'C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\gradu_playwright.csproj'.
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/microsoft.playwright.mstest/index.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/microsoft.playwright.mstest/index.json 395ms
+info : Restoring packages for C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\gradu_playwright.csproj...
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.playwright.mstest/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.playwright.mstest/index.json 259ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.playwright.mstest/1.57.0/microsoft.playwright.mstest.1.57.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.playwright.mstest/1.57.0/microsoft.playwright.mstest.1.57.0.nupkg 57ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.playwright.testadapter/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.playwright/index.json
+info :   CACHE https://api.nuget.org/v3-flatcontainer/mstest.testadapter/index.json
+info :   CACHE https://api.nuget.org/v3-flatcontainer/mstest.testframework/index.json
+info :   CACHE https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/mstest.testadapter/2.2.7/mstest.testadapter.2.2.7.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/mstest.testframework/2.2.7/mstest.testframework.2.2.7.nupkg     
+info :   OK https://api.nuget.org/v3-flatcontainer/mstest.testadapter/2.2.7/mstest.testadapter.2.2.7.nupkg 177ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg 180ms
+info :   OK https://api.nuget.org/v3-flatcontainer/mstest.testframework/2.2.7/mstest.testframework.2.2.7.nupkg 182ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.playwright.testadapter/index.json 196ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.playwright.testadapter/1.57.0/microsoft.playwright.testadapter.1.57.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.playwright.testadapter/1.57.0/microsoft.playwright.testadapter.1.57.0.nupkg 49ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.playwright/index.json 270ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.playwright/1.57.0/microsoft.playwright.1.57.0.nupkg   
+info :   CACHE https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.objectmodel/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.objectmodel/17.3.0/microsoft.testplatform.objectmodel.17.3.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.playwright/1.57.0/microsoft.playwright.1.57.0.nupkg 58ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.objectmodel/17.3.0/microsoft.testplatform.objectmodel.17.3.0.nupkg 53ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/system.componentmodel.annotations/index.json
+info :   GET https://api.nuget.org/v3-flatcontainer/nuget.frameworks/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/index.json 155ms
+info :   OK https://api.nuget.org/v3-flatcontainer/nuget.frameworks/index.json 159ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.componentmodel.annotations/index.json 164ms
+info :   GET https://api.nuget.org/v3-flatcontainer/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg
+info :   GET https://api.nuget.org/v3-flatcontainer/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg 44ms
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg 44ms
+info :   OK https://api.nuget.org/v3-flatcontainer/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg 44ms
+info : Installed Microsoft.Playwright.MSTest 1.57.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\microsoft.playwright.mstest\1.57.0 with content hash cpef5yK4dacWbj5k107LFBOXXEDkJKUS5ijNmEKEAIhltIQx9Nyeq8Pahx/KzGG1t7iXxLqfrbxgjA/fY9amcA==.
+info : Installed Microsoft.Playwright.TestAdapter 1.57.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\microsoft.playwright.testadapter\1.57.0 with content hash DKFaHEFkjHlSTb86WOZRYl4VjKoVq2MUB+7ni8xMiweKhg07KJ7P+BsajLYn05OMBwwz4Cb6PmYdczT8dzUwww==.
+info : Installed Microsoft.NET.Test.Sdk 17.8.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\microsoft.net.test.sdk\17.8.0 with content hash BmTYGbD/YuDHmApIENdoyN1jCk0Rj1fJB0+B/fVekyTdVidr91IlzhqzytiUgaEAzL1ZJcYCme0MeBMYvJVzvw==.
+info : Installed NuGet.Frameworks 5.11.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\nuget.frameworks\5.11.0 with content hash eaiXkUjC4NPcquGWzAGMXjuxvLwc6XGKMptSyOGQeT0X70BUZObuybJFZLA0OfTdueLd3US23NBPTBb6iF3V1Q==.
+info : Installed Microsoft.Bcl.AsyncInterfaces 6.0.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\microsoft.bcl.asyncinterfaces\6.0.0 with content hash UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==.
+info : Installed System.ComponentModel.Annotations 5.0.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\system.componentmodel.annotations\5.0.0 with content hash dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==.
+info : Installed MSTest.TestFramework 2.2.7 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\mstest.testframework\2.2.7 with content hash qroVMzabIcbqwxtlDZriZflqs3nKpmqSVoM/Nfw9fg+F6885rrgo9R4gwmK7xxPPd8gpDrmNqqwpnyh6GMoN9g==.
+info : Installed MSTest.TestAdapter 2.2.7 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\mstest.testadapter\2.2.7 with content hash E8seWhOKGEz4Aq6IaX6dUZGRSVYwLVy+6ZI9nq0TyHRuv54Id4Y7y/CB0KGiOUrqtygfooQm5wmpnDOW28N9Ug==.
+info : Installed Microsoft.TestPlatform.ObjectModel 17.3.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\microsoft.testplatform.objectmodel\17.3.0 with content hash 6NRzi6QbmWV49Psf8A9z1LTJU4nBrlJdCcDOUyD4Ttm1J2wvksu98GlV+52CkxtpgNsUjGr9Mv1Rbb1/dB06yQ==.
+info : Installed Microsoft.Playwright 1.57.0 from https://api.nuget.org/v3/index.json to C:\Users\niko.leppanen\.nuget\packages\microsoft.playwright\1.57.0 with content hash DJXmZ64wwgakSrVZxsFJS8/epLEfac2Xfij66a0xY/ggfKqHIOeWeRaQQ97qxwA3FdyVwU1nWjAqeZhOZFxYMw==.
+info :   CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.01.28.23.41.46/vulnerability.base.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.01.28.23.41.46/2026.01.30.05.41.50/vulnerability.update.json
+info : Package 'Microsoft.Playwright.MSTest' is compatible with all the specified frameworks in project 'C:\Users\niinfo : Generating MSBuild file C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\gradu_playwright.csproj.nuget.g.targets.
+info : Writing assets file to disk. Path: C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\obj\project.assets.json
+log  : Restored C:\Users\niko.leppanen\gradu_tyot\gradu_playwright\gradu_playwright.csproj (in 30,48 sec).
+PS C:\Users\niko.leppanen\gradu_tyot\gradu_playwright> dotnet build
+Restore complete (2,8s)
+  gradu_playwright net10.0 succeeded (4,1s) → bin\Debug\net10.0\gradu_playwright.dll
+
+Build succeeded in 7,3s
+PS C:\Users\niko.leppanen\gradu_tyot\gradu_playwright>
+
+
+                                                       ls
+
+
+    Directory: C:\Users\niko.leppanen\gradu_tyot\gradu_playwright
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         1/30/2026   2:53 PM                bin
+d-----         1/30/2026   2:53 PM                obj
+-a----         1/30/2026   2:50 PM            534 gradu_playwright.csproj
+-a----         1/30/2026   2:47 PM             64 MSTestSettings.cs
+-a----         1/30/2026   2:47 PM            143 Test1.cs
+
+
+PS C:\Users\niko.leppanen\gradu_tyot\gradu_playwright> pwsh .\bin\Debug\net10.0\playwright.ps1 install
